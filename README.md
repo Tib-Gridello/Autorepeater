@@ -7,7 +7,6 @@ A simple Burp Suite extension that automatically renames Repeater tabs based on 
 - Automatically renames Repeater tabs to match the URL being requested
 - Uses a clean format: `hostname/path`
 - Works in real-time as requests are sent
-- Includes keyboard shortcut (Ctrl+R) to manually trigger URL extraction
 
 ## Installation
 
@@ -26,4 +25,4 @@ The extension works automatically:
 
 You can also use Ctrl+R while in a Repeater tab to manually extract and display the URL in Burp's extension output.
 
-## Building from Source 
+## Building from Source
