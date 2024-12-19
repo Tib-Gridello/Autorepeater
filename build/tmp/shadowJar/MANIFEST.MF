@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: burp.repeater.BurpExtender
+Implementation-Title: burp-repeater-handler
+Implementation-Version: 1.0-SNAPSHOT
+
