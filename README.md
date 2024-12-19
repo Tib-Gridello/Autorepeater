@@ -1,7 +1,7 @@
 # Burp Repeater URL Renamer
 
 A simple Burp Suite extension that automatically renames Repeater tabs based on the request URL.
-
+This extension was made very quickly has not been tested. It is here to have a rough idea on how to replace the old Repeater tab name with the URL. To be used as a starting point for a more robust extension.
 ## Features
 
 - Automatically renames Repeater tabs to match the URL being requested
