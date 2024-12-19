@@ -20,9 +20,8 @@ This extension was made very quickly has not been tested. It is here to have a r
 
 The extension works automatically:
 1. Send a request to Repeater
-2. The tab will be automatically renamed to match the URL
+2. The tab will be automatically renamed to match the URL - after a request is also present
 3. Format: `hostname/path` (e.g., `example.com/api/endpoint`)
 
-You can also use Ctrl+R while in a Repeater tab to manually extract and display the URL in Burp's extension output.
 
 ## Building from Source
